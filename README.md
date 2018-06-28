@@ -3,7 +3,7 @@
 
 # nodejs
 #### [node的cluster模块](nodejs/cluster.md)
-
+#### [node的buffer模块](nodejs/buffer.md)
 # es6
 #### [es6之Map](es6/map.md)
 
