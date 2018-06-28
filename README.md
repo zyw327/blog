@@ -1,2 +1,2 @@
 # blog
-blog of perfect start
+[启航博客](http://blog.okgoes.com)
