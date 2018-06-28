@@ -6,3 +6,7 @@
 
 # es6
 #### [es6之Map](es6/map.md)
+
+# javascript
+
+#### [js的封装、继承、多态](javascript/extends.md)
